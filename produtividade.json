@@ -1,0 +1,12 @@
+[
+  {
+    "mes": "janeiro",
+    "peso_total": 8000000.0,
+    "funcionarios": 13,
+    "dias": 24,
+    "horas_dia": 8,
+    "total_horas": 2496,
+    "kg_hora_func": 3205.128205128205,
+    "variacao_percentual": null
+  }
+]
